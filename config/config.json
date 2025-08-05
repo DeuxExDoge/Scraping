@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "name": "Mouse",
+            "sources": [
+                "https://www.mercadolibre.com.ar/logitech-g-series-lightspeed-g502-negro/p/MLA15173180",
+                "https://tiendamia.com/ar/producto?amz=B07L4BM851&pName=Logitech%20G502%20Lightspeed%20Wireless%20Gaming%20Mouse%20with%20Hero%2025K%20Sensor%2C%20PowerPlay%20Compatible%2C%20Tunable%20Weights%20and%20Lightsync%20RGB%20-%20Black",
+                "https://fullh4rd.com.ar/prod/12631/mouse-logitech-g502-wireless-gaming-lightspeed-910-005566"
+            ]
+        },
+        {
+            "name": "Teclado",
+            "sources": [
+                "https://www.mercadolibre.com.ar/redragon-kumara-k552-negro-rgb-qwerty-espanol-latinoamerica-outemu-red/p/MLA19472215?product_trigger_id=MLA22657030&quantity=1",
+                "https://tiendamia.com/ar/producto?amz=B07D3FJW3S&pName=K552-R%20KUMARA%20Rainbow%20RGB%20Backlit%20Mechanical%20Gaming%20Keyboard",
+                "https://fullh4rd.com.ar/prod/9680/teclado-gamer-redragon-k552-rgb-mecanico"
+            ]
+        },
+        {
+            "name": "Auriculares",
+            "sources": [
+                "https://www.mercadolibre.com.ar/auriculares-gaming-hyperx-cloud-alpha-kingston-2020/p/MLA15127344",
+                "https://tiendamia.com/ar/producto?amz=B07PNP1F2B&pName=HyperX%20Cloud%20Alpha%20S%20Gaming%20Headset%20for%20PC%20-%20Black",
+                "https://fullh4rd.com.ar/prod/12630/auriculares-hyperx-cloud-alpha-gaming-kingston"
+            ]
+        }
+    ]
+}
